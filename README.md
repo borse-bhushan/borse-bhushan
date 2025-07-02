@@ -1,7 +1,9 @@
 # 👨‍💻 Bhushan Borse – Backend Python Developer
 
 📧 **Email:** borsebhushan216@gmail.com
+
 🌍 **Location:** Pune
+
 🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/bhushan-borse-13216416b/)
 
 ---
