@@ -40,4 +40,5 @@ Git, GitLab, Postman, Linux, VS Code, PyCharm
 ---
 
 **Place:** [Pune]
+
 **Bhushan Borse**
