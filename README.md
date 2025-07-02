@@ -38,9 +38,5 @@ Pytest, Unittest, Swagger/OpenAPI
 Git, GitLab, Postman, Linux, VS Code, PyCharm
 
 
-## 📄 Declaration
-
-I hereby declare that the information provided above is true and correct to the best of my knowledge and belief.
-
 **Place:** [Pune]
 **Bhushan Borse**
