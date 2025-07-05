@@ -4,7 +4,7 @@
 
 ## 🧾 Profile Summary
 
-Experienced backend developer with 6+ years in building scalable, modular, and secure systems using Python. Proficient in Django (Template + REST Framework), FastAPI, and Flask with a strong focus on reusable architecture, microservices, and multi-tenant applications. Comfortable working with both SQL and NoSQL databases and cloud-native infrastructure.
+Experienced Software Engineer in building scalable, modular, and secure systems using Python. Proficient in Django (Template + REST Framework), FastAPI, and Flask with a strong focus on reusable architecture, microservices, and multi-tenant applications. Comfortable working with both SQL and NoSQL databases and cloud-native infrastructure.
 
 Skilled in implementing RESTful APIs, event-driven flows, asynchronous processing, authentication systems (Token, JWT, SSO), role-based access control, and cron job automation. Experienced with Dockerized deployment and AWS services including Lambda, SQS, API Gateway, and EC2. Familiar with DevOps, caching layers, and automated testing with Pytest.
 
