@@ -4,9 +4,12 @@
 
 ## 🧾 Profile Summary
 
-Experienced Software Engineer in building scalable, modular, and secure systems using Python. Proficient in Django (Template + REST Framework), FastAPI, and Flask with a strong focus on reusable architecture, microservices, and multi-tenant applications. Comfortable working with both SQL and NoSQL databases and cloud-native infrastructure.
+Senior Backend Engineer
+Experienced in designing and developing scalable backend systems with a strong foundation in Python and hands-on expertise in frameworks such as Django (Template & DRF), Flask, and FastAPI. Skilled in working with relational and non-relational databases, including PostgreSQL, MySQL, and MongoDB. Proficient in implementing caching and search solutions using Redis, Memcached, Elasticsearch, and MeiliSearch.
 
-Skilled in implementing RESTful APIs, event-driven flows, asynchronous processing, authentication systems (Token, JWT, SSO), role-based access control, and cron job automation. Experienced with Dockerized deployment and AWS services including Lambda, SQS, API Gateway, and EC2. Familiar with DevOps, caching layers, and automated testing with Pytest.
+Comprehensive experience in Microservices, legacy systems, and event-driven architectures. Strong background in cloud-native solutions leveraging AWS services such as EC2, Lambda, SQS, Step Functions, and API Gateway. Experienced with containerization, task queuing, and secure connectivity using tools like Docker, Celery, SSH, and SSH tunneling.
+
+Familiar with Node.js (Express) and Angular, allowing seamless collaboration in full-stack teams. Known for writing clean, modular, and high-performing code that contributes to building robust and efficient backend systems.
 
 ---
 
